@@ -1,2 +1,4 @@
 This is a new project for git practice . 
 We will practice the git commands on this one .
+This file is being tracked now . 
+This file is not added to the tracking we need to check .
